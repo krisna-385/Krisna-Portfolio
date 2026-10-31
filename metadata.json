@@ -1,0 +1,8 @@
+{
+  "name": "Krisna Portfolio: Stories · Worlds · Ideas",
+  "description": "Books, fictional worlds and rating systems by author Krisna. Imagined histories and connected timelines including AEON, Themazhi, and Theezh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
